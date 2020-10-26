@@ -1,5 +1,5 @@
 # zhihu
-# 127.0.0.1 api.zhihu.com
+127.0.0.1 api.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 mqtt.zhihu.com
 127.0.0.1 static.zhihu.com/
@@ -56,7 +56,7 @@
 127.0.0.1 api.yangkeduo.com
 127.0.0.1 th.yangkeduo.com
 127.0.0.1 cmta.yangkeduo.com
-127.0.0.1 android.googleapis.com
+# 127.0.0.1 android.googleapis.com
 127.0.0.1 api.newsapp.cnr.cn
 127.0.0.1 wwwcnr.cn
 127.0.0.1 bonus.cnr,cn
