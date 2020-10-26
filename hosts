@@ -12,3 +12,7 @@
 127.0.0.1 sdfp.snssdk.com
 127.0.0.1 post1.voiceads.cn
 127.0.0.1 tobapplog.ctobsnssdk.com
+
+# xiaomi
+127.0.0.1 api.m.mi.com
+127.0.0.1 t.hl.mifile.cn
