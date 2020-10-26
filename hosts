@@ -1,7 +1,7 @@
 # zhihu
-127.0.0.1 api.zhihu.com
+# 127.0.0.1 api.zhihu.com
 127.0.0.1 sugar.zhihu.com
-127.0.0.1 mqtt.zhihu.com
+# 127.0.0.1 mqtt.zhihu.com
 127.0.0.1 static.zhihu.com/
 127.0.0.1 tobapplog.ctobsnssdk.com
 # zhihu 启动页面广告
