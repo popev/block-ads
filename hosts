@@ -9,12 +9,62 @@
 127.0.0.1 dm.toutiao.com
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 
-# unknow
+# baidu
+127.0.0.1 adahaidu.com
+127.0.0.1 boxer.baidu.com
+127.0.0.1 shdstatic.com
+127.0.0.1 ext.baidu.com
+127.0.0.1 pic.rmb.bdstatic.com
+127.0.0.1 dssO.bdstatic.com
+127.0.0.1 vdposter.bdstatic.com
+127.0.0.1 gss3.bdstatic.com
+127.0.0.1 hectorstatic.baidu.com
 127.0.0.1 dig.bdurl.net
-127.0.0.1 sdfp.snssdk.com
-127.0.0.1 post1.voiceads.cn
-127.0.0.1 tobapplog.ctobsnssdk.com
+
+# tencent
+
+127.0.0.1 wximg.qq.com
+127.0.0.1 vweixinthumb.tc.qq.com
+127.0.0.1 minorshort.weixin.qq.com
+127.0.0.1 wxsnsdy.wxs.qq.com
+127.0.0.1 badjs.weixinbridge.com
+
+# bilibili
+127.0.0.1 apm-misaka.biliapi.net
+127.0.0.1 iO.hdslb.com
+127.0.0.1 i2.hdslb.com
 
 # xiaomi
 127.0.0.1 api.m.mi.com
 127.0.0.1 t.hl.mifile.cn
+127.0.0.1 hls.zb.marketing.i.mi.com
+127.0.0.1 activity.zb.mi.com
+127.0.0.1 cdn.cnbjl.fds.api.mi-img.com
+127.0.0.1 time.hd.mi.com
+127.0.0.1 m.mi.com
+127.0.0.1 sl.mi.com
+127.0.0.1 s.zb.mi.com
+127.0.0.1 zbtupian.zb.mi.com
+127.0.0.1 miscanner.api.xiaomi.net
+
+# unknown
+127.0.0.1 api.yangkeduo.com
+127.0.0.1 th.yangkeduo.com
+127.0.0.1 cmta.yangkeduo.com
+127.0.0.1 android.googleapis.com
+127.0.0.1 api.newsapp.cnr.cn
+127.0.0.1 wwwcnr.cn
+127.0.0.1 bonus.cnr,cn
+127.0.0.1 clO.webterren.com
+127.0.0.1 c12.webterren.com
+127.0.0.1 sdfp.snssdk.com
+127.0.0.1 sdk.voiceads.cn
+127.0.0.1 dm.toutiao.com
+127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 sdfp.snssdk.com
+127.0.0.1 post1.voiceads.cn
+127.0.0.1 sdk.voiceads.cn
+
+
+127.0.0.1 audid-api.taobao.com
