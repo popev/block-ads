@@ -2,6 +2,8 @@
 127.0.0.1 api.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 mqtt.zhihu.com
+127.0.0.1 static.zhihu.com/
+127.0.0.1 daa.shuzilm.cn
 
 # toutiao
 127.0.0.1 dm.toutiao.com
