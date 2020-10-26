@@ -1,3 +1,14 @@
+# zhihu
 127.0.0.1 api.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 mqtt.zhihu.com
+
+# toutiao
+127.0.0.1 dm.toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+
+# unknow
+127.0.0.1 dig.bdurl.net
+127.0.0.1 sdfp.snssdk.com
+127.0.0.1 post1.voiceads.cn
+127.0.0.1 tobapplog.ctobsnssdk.com
