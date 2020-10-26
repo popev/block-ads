@@ -3,7 +3,12 @@
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 mqtt.zhihu.com
 127.0.0.1 static.zhihu.com/
+127.0.0.1 tobapplog.ctobsnssdk.com
+# zhihu 启动页面广告
+127.0.0.1 iflyad.bjb.openstorage.cn
 127.0.0.1 daa.shuzilm.cn
+#127.0.0.1 http://daa.shuzilm.cn/report?v=1.1&c=1&e=1
+
 
 # toutiao
 127.0.0.1 dm.toutiao.com
@@ -60,7 +65,7 @@
 127.0.0.1 sdfp.snssdk.com
 127.0.0.1 sdk.voiceads.cn
 127.0.0.1 dm.toutiao.com
-127.0.0.1 tobapplog.ctobsnssdk.com
+
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 sdfp.snssdk.com
 127.0.0.1 post1.voiceads.cn
