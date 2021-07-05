@@ -1,0 +1,69 @@
+files:
+  - url: ""
+    time: 1608278176578.yml
+    name: config.yaml
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 节点选择
+        now: 🇭🇰 VIP1 香港07 流媒体解锁
+      - name: 🌍 国外媒体
+        now: 🇺🇲 github.com/freefq - 美国 83
+      - name: 📢 谷歌FCM
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🆎 AdBlock
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    mode: rule
+  - time: 1622776295124.yml
+    name: sub
+    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=http%3A%2F%2F120.92.132.166%3A8888%2Fdown%2FecafFaSfovkG&insert=false
+    selected: []
+    interval: 24
+  - time: 1622776424387.yml
+    name: 手机
+    url: https://suo.yt/qBSaSzu
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 节点选择
+        now: 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 3
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 📢 谷歌FCM
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    interval: 24
+    mode: rule
+  - time: 1625467164258.yml
+    name: cuDxXho
+    url: https://sub.cm/cuDxXho
+    selected: []
+    interval: 24
+index: 3
